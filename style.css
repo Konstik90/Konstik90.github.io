@@ -13,7 +13,7 @@ body {
 }
 
 .header__avatar {
-  border-radius: 70%;
+  border-radius: 100%;
 }
 
 .header__title {
@@ -49,7 +49,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  padding: 20px 20px 10px;
+  padding: 40px 40px 20px;
   gap: 10px;
   flex: none;
   order: 1;
@@ -60,7 +60,7 @@ body {
 
 .links__link,
 .links__title {
-  font-size: 20px;
+  font-size: 100%;
   font-size: 2.4;
 }
 
