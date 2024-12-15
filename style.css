@@ -37,7 +37,7 @@ body {
 
 .links__header {
   font-family: "Helvetica Neue";
-  font-size: 24px;
+  font-size: 30px;
   line-height: 1.4;
   margin: 0 0 15px 0;
 }
@@ -106,6 +106,6 @@ footer {
   font-size: 14px;
   line-height: 1.4;
 
-  color: #ffffff;
+  color: #191970;
   text-decoration: none;
 }
