@@ -17,8 +17,8 @@ body {
 }
 
 .header__title {
-  margin: 50px 0 30px 0;
-  font-size: 40px;
+  margin: 40px 0 20px 0;
+  font-size: 32px;
   line-height: 1.2;
   font-family: "Helvetica Neue";
 }
@@ -81,7 +81,7 @@ body {
 .linsk__link,
 .links__link:visited {
   text-decoration: none;
-  color: #191970;
+  color: #cb782f;
 }
 
 .links__title {
@@ -106,6 +106,6 @@ footer {
   font-size: 14px;
   line-height: 1.4;
 
-  color: #191970;
+  color: #ffffff;
   text-decoration: none;
 }
